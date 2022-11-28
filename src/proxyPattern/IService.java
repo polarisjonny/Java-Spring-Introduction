@@ -1,2 +1,5 @@
-package proxyPattern;public interface IService {
+package proxyPattern;
+
+public interface IService {
+    String runSomething();
 }
